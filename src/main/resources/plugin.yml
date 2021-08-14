@@ -1,0 +1,8 @@
+name: BadgeCollect
+version: 1.0
+main: q2474727683.badgecollect.BadgeCollect
+authors: [ Dragon ]
+commands:
+  BadgeCollect:
+    aliases:
+      - xzz
