@@ -1,7 +1,7 @@
 # Discord multi tool
 
 > [!TIP] 
-> ## An auto discord account and token generator. Automatically verifies the phone number. Works without proxy. Bypasses captcha.
+> ## An auto discord account , token generator and more tools in one software . Automatically verifies the phone number. Works without proxy. Bypasses captcha.
 
 ## Getting Started:
 
